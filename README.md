@@ -1,2 +1,2 @@
 # Sihan Chen
-![Screenshot](images/screenshot.png)
+![Screenshot](images/commit.png)
