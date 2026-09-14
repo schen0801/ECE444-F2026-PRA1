@@ -1,2 +1,1 @@
-# ECE444-F2026-PRA1
-Sihan Chen
+# Sihan Chen
